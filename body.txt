@@ -4,3 +4,15 @@ Topic Sentence: The paragraph's main idea is usually introduced in a topic sente
 Supporting Sentences: Sentences following the topic sentence provide evidence, examples, or further explanation to support the main point. 
 Organization: Paragraphs help structure written work, signaling to the reader when a new point or topic is being introduced. 
 Conventions: Paragraphs are often indicated by an indentation of the first line or by skipping a line before the new paragraph begins. 
+
+
+
+Types of Virtualization
+
+Server Virtualization – create multiple servers on one physical server
+
+Network Virtualization – virtual networks (VNet, VLAN)
+
+Storage Virtualization – combine multiple storage devices
+
+Desktop Virtualization – virtual desktops (VDI)
